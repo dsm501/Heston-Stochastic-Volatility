@@ -1,1 +1,1 @@
-# Heston-Stochastic-Volatility
+# Heston Stochastic Volatility
